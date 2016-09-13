@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
     //Process/Calculations Here
     avg=(x1+x2+x3+x4+x5)/5;
     stdev=((x1-avg)*(x1-avg)+(x2-avg)*(x2-avg)+(x3-avg)*(x3-avg)+
-            (x4-avg)*(x4-avg)+(x5-avg)*(x5-avg))/5,0.5; 
+            (x4-avg)*(x4-avg)+(x5-avg)*(x5-avg))/4,0.5; 
     
     //Output Located Here
     cout<<"The input values = "<<x1<<" "<<x2<<" "<<x3<<" "<<x4<<" "<<x5<<endl;
