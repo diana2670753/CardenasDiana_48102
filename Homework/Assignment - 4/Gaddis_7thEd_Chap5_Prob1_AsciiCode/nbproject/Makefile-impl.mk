@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=MenuWithoutFunctions
+PROJECTNAME=Gaddis_7thEd_Chap5_Prob1_AsciiCode
 
 # Active Configuration
 DEFAULTCONF=Debug
