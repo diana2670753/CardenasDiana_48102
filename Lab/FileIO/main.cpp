@@ -1,8 +1,8 @@
 /* 
  * File:   main.cpp
- * Author: Dr. Mark E. Lehr
- * Created on July 19, 2016, 9:07 AM
- * Purpose:  Hello World Template
+ * Author: Cardenas, Diana
+ * Created on October 13, 2016, 11:27 AM
+ * Purpose: Save/Open Files
  */
 
 //System Libraries Here
@@ -12,11 +12,6 @@
 using namespace std;
 
 //User Libraries Here
-
-//Global Constants Only, No Global Variables
-//Like PI, e, Gravity, or conversions
-
-//Function Prototypes Here
 
 //Program Execution Begins Here
 int main(int argc, char** argv) {
@@ -30,8 +25,6 @@ int main(int argc, char** argv) {
     in.open("map.dat");
     in>>rows>>cols;
     cout<<"rows = "<<rows<<" cols = "<<cols<<endl;
-    
-    //Process/Calculations Here
     
     //Output Located Here
     getline(in, line);
