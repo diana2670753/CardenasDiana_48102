@@ -8,6 +8,7 @@
  * File:   main.cpp
  * Author: Cardenas, Diana
  * Created on November 1, 2016, 1:15 PM
+ * Purpose: Calculate Costs
  */
 
 //System Libraries
